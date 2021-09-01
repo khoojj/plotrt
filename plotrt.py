@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+#Version 1.0
 
 from Bio import SeqIO #call biopython to import seq info from fastq
 import pandas as pd #call pandas for managing dataframe to allow us to sort based on variables
